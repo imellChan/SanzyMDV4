@@ -55,20 +55,20 @@ global.APIKeys = {
 
 // Other
 
-global.namabot = 'I M E L B O T Z'
+global.namabot = 'tasyaaBot'
 
-global.namaowner = 'I M E L C H A N'
+global.namaowner = 'TasyaaChann!'
 
-global.myweb = 'https://youtube.com/c/SanzyYT'
-
-
-global.owner = [ '18045292269' ]
+global.myweb = 'github.com'
 
 
-global.premium = ['18045292269']
+global.owner = [ '6281358960973' ]
 
 
-global.packname = 'I M E L'
+global.premium = ['6281358960973']
+
+
+global.packname = 'Tsyaa'
 
 
 global.author = 'B O T Z'
